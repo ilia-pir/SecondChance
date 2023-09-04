@@ -11,6 +11,7 @@ TagManager:
   - Fireball
   - Golem
   - Artifact
+  - Pickup
   layers:
   - Default
   - TransparentFX

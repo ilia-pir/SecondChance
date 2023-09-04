@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6083805060210824016}
   m_Layer: 0
   m_Name: ScorePickup
-  m_TagString: Untagged
+  m_TagString: Pickup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,7 +74,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037197392735343210}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -6915170247299394738, guid: 5550961dd4ee68940a46322c3647ecbb, type: 2}
   m_audioClip: {fileID: 8300000, guid: 862c8850df6af2b42967ad3ddfc1fa07, type: 3}
